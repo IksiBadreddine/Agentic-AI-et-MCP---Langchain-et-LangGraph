@@ -1,0 +1,2 @@
+Liste 1 triée: [3, 5, 8]
+Liste 2 triée: [1, 3, 9]
